@@ -1,26 +1,39 @@
-# Blinkit Analytics Dashboard using PowerBi
-This project involves creating interactive dashboards to analyze sales data over a decade. The dashboard focuses on dairy items, displaying key metrics like total sales, sales trends by year, fat content distribution, and location type. It provides a comprehensive overview of all item types, highlighting total sales, sales trends, item ranking by sales, and similar distribution metrics for fat content and location types. These dashboards facilitate data-driven decision-making by providing clear visual representations of sales performance and item distribution. The project aims to help stakeholders understand market trends and optimize inventory management.
+# Blinkit Analytics Dashboard using Power BI
 
-# Steps Involved:
-1. Cleaning Data
-  Removing unnecessary columns and duplicates.
-  Handling missing values.
-  Changing data types as needed.
-2. Data Analysis
-Used DAX functions, measures, and calculated columns to perform detailed analysis.
-# 3. Mertics
-The total number of sales transactions made is 1.20M Sales.
-The average customer rating out of 5 is 3.92.
-The total number of items available for sale is 9K.
-# 4. Insights:
-Fruits and Vegetables has the highest sales of 178K.
-Snack Foods has 173K sales is second highest.
-In YOY chart 2020 (peak year) has sale of 295K.
-The pie chart divides the sales based on the location type:
-Tier 1: 28.05%
-Tier 2: 39.77%
-Tier 3: 32.18%
-# Sanpshots:
-Screenshot 2024-07-30 125023
+This project involves creating interactive dashboards to analyze sales data over a decade. The dashboard focuses on **dairy items**, displaying key metrics like total sales, sales trends by year, fat content distribution, and location type.
 
-Screenshot 2024-07-30 12511
+It also provides a comprehensive overview of **all item types**, highlighting:
+- Total sales  
+- Sales trends  
+- Item ranking by sales  
+- Distribution metrics for fat content and location types
+
+These dashboards facilitate data-driven decision-making by providing clear visual representations of sales performance and item distribution. The project aims to help stakeholders understand market trends and optimize inventory management.
+
+---
+
+## Steps Involved
+
+### 1. Cleaning Data
+- Removed unnecessary columns and duplicates  
+- Handled missing values  
+- Changed data types as needed
+
+### 2. Data Analysis
+- Used **DAX functions**, **measures**, and **calculated columns** for in-depth analysis
+
+### 3. Metrics
+- 🧾 **Total Sales Transactions**: 1.20M  
+- ⭐ **Average Customer Rating**: 3.92 / 5  
+- 📦 **Total Items Available**: 9K
+
+### 4. Insights
+- 🥦 **Fruits and Vegetables**: Highest sales with **178K**
+- 🍟 **Snack Foods**: Second highest with **173K**
+- 📈 **YOY Chart**: 2020 is the peak year with **295K sales**
+- 🗺️ **Sales Distribution by Location Type**:
+  - Tier 1: 28.05%  
+  - Tier 2: 39.77%  
+  - Tier 3: 32.18%
+
+---
