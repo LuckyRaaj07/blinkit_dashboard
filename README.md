@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard designed for **Blinkit**, showcasing key business metrics and visual insights for sales performance, item types, outlet analysis, and more.
 
-[📄 View Dashboard PDF](./blinkit-analytics.pdf)
+![Blinkit Dashboard Preview](./BlinkitDashboard_Image.png)
 
 ## 🔍 Overview
 
