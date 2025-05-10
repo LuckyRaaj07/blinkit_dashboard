@@ -1,39 +1,61 @@
-# Blinkit Analytics Dashboard using Power BI
+# 📊 Blinkit Dashboard - Power BI
 
-This project involves creating interactive dashboards to analyze sales data over a decade. The dashboard focuses on **dairy items**, displaying key metrics like total sales, sales trends by year, fat content distribution, and location type.
+This repository contains a Power BI dashboard designed for **Blinkit**, showcasing key business metrics and visual insights for sales performance, item types, outlet analysis, and more.
 
-It also provides a comprehensive overview of **all item types**, highlighting:
-- Total sales  
-- Sales trends  
-- Item ranking by sales  
-- Distribution metrics for fat content and location types
+![Blinkit Dashboard Preview](./BlinkitDashboard_Image.png)
 
-These dashboards facilitate data-driven decision-making by providing clear visual representations of sales performance and item distribution. The project aims to help stakeholders understand market trends and optimize inventory management.
+## 🔍 Overview
 
----
+The **Blinkit Dashboard** is built to analyze and visualize critical business data, helping stakeholders make informed decisions quickly. It provides insights into:
 
-## Steps Involved
+- ✅ Total Sales & Average Sales  
+- ⭐ Average Customer Ratings  
+- 📦 Item Type Sales Distribution  
+- 🏬 Outlet Performance (Location, Size, Tier)  
+- 🧈 Fat Content Analysis  
+- 🕒 Sales Trends over Time  
 
-### 1. Cleaning Data
-- Removed unnecessary columns and duplicates  
-- Handled missing values  
-- Changed data types as needed
+## 🛠 Built With
 
-### 2. Data Analysis
-- Used **DAX functions**, **measures**, and **calculated columns** for in-depth analysis
+- **Power BI Desktop**
+- Data modeling with relationships and calculated fields
+- Interactive slicers for filtering by:
+  - Outlet Location Type
+  - Outlet Size
+  - Item Type
 
-### 3. Metrics
-- 🧾 **Total Sales Transactions**: 1.20M  
-- ⭐ **Average Customer Rating**: 3.92 / 5  
-- 📦 **Total Items Available**: 9K
+## 📌 Key Features
 
-### 4. Insights
-- 🥦 **Fruits and Vegetables**: Highest sales with **178K**
-- 🍟 **Snack Foods**: Second highest with **173K**
-- 📈 **YOY Chart**: 2020 is the peak year with **295K sales**
-- 🗺️ **Sales Distribution by Location Type**:
-  - Tier 1: 28.05%  
-  - Tier 2: 39.77%  
-  - Tier 3: 32.18%
+- Responsive and interactive visualizations
+- Dynamic filters/slicers to explore data across various dimensions
+- Pie charts, bar charts, line charts, and tables for detailed analysis
+- Clean and modern UI inspired by Blinkit branding
 
----
+## 🖼 Dashboard Visuals
+
+- **Total Sales:** $1.20M overall sales  
+- **Top Performing Tiers:** Tier 3 outlets with highest revenue  
+- **Item Categories:** Fruits, Snacks, and Household items lead sales  
+- **Time Trends:** Sales performance from 2010 to 2022  
+- **Outlet Analysis:** Based on fat content, location, and size  
+
+## 📁 Files Included
+
+- `BlinkitDashboard_Image.png`: Preview image of the dashboard
+- (Add your `.pbix` file here if you want to share the Power BI file)
+
+## 🚀 Getting Started
+
+1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+2. Clone this repository
+3. Open the `.pbix` file in Power BI Desktop (if provided)
+4. Explore and interact with the visualizations
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 🙋‍♂️ Acknowledgments
+
+- Inspired by Blinkit’s branding and data-driven decision making
+- Created as a personal learning project for Power BI dashboarding
