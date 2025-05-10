@@ -30,6 +30,9 @@ The **Blinkit Dashboard** is built to analyze and visualize critical business da
 - Dynamic filters/slicers to explore data across various dimensions
 - Pie charts, bar charts, line charts, and tables for detailed analysis
 - Clean and modern UI inspired by Blinkit branding
+- 🏠 **Home Button** for easy navigation
+- 🔄 **Refresh Button** to clear slicer filters and reset view
+- ⬇️ **Download Button** to export or save relevant visuals/data
 
 ## 🖼 Dashboard Visuals
 
